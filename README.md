@@ -1,1 +1,2 @@
 # Final_Project_Beeman
+#This script is designed to (1)create a midline through the sampling site based on provided coordinates ([x,y], [x,y]) (2) create transects on the midline that are 10 meters apart and 100 meters long (3) collect coordinate points located at the beginning and end of each line (4) create a stand alone table feature layer within ArcGISpro, (5) convert the stand alone table feature to a excel file.
